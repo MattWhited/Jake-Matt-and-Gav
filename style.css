@@ -1,1 +1,15 @@
 /* style.css */ 
+
+header{ 
+    background-color: #1F2937;
+    color: #f9faf8;
+}
+
+.logo { 
+    font-size: 24px;
+}
+
+.links { 
+    font-size: 18px;
+    color: #e5e7eb;
+}
