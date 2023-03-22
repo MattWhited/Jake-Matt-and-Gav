@@ -19,6 +19,9 @@ header{
 button { 
     background-color: #3882f6;
     color: #f9faf8;
+    border-radius: 4px;
+    border: 25px;
+    padding: 5px;
 
 }
 div { 
