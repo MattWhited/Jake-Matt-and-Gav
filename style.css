@@ -44,3 +44,9 @@ div {
 .block_four { 
     display: flex;
 }
+.placeholder { 
+    background-color: #e5e7eb;
+    padding: 25px;
+    border: 10px;
+    align-items: center;
+}
