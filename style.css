@@ -68,3 +68,27 @@
     justify-content: center;
     padding: 8px;
 }
+
+.pic_part > .pictures > .img_one > img {
+    width: 100px;
+    height: auto;
+}
+
+.pic_part > .pictures > .img_two > img {
+    width: 100px;
+    height: auto;
+}
+
+.pic_part > .pictures > .img_three > img {
+    width: 100px;
+    height: auto;
+}
+
+.pic_part > .pictures > .img_four > img {
+    width: 100px;
+    height: auto;
+}
+
+.pic_part > .pictures {
+    display: flex;
+}
