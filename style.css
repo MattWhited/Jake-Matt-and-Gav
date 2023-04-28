@@ -174,5 +174,14 @@
     font-size: 24px;
     font-weight: bold;
     
+ }
+
+ .call_to_action > button {
+    background-color: #3882f6;
+    border-color: #e5e7eb;
+    border-width: 2px;
+    color: #e5e7eb;
+    border-style: solid;
+    border-radius: 3px;
 
  }
