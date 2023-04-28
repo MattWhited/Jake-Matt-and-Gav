@@ -57,6 +57,8 @@
     color: #f9faf8;
     background-color: #3882f6;
     border-radius: 5px; 
+    border-style: solid;
+
 }
 
 .pic_part > .title {
